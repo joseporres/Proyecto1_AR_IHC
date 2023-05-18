@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="P301" size="4.000000 2.900000" />
+    <ImageTarget name="P302" size="4.000000 2.775000" />
+    <ImageTarget name="P503" size="4.000000 2.800000" />
+    <ImageTarget name="P514" size="4.000000 2.800000" />
+    <ImageTarget name="L502" size="4.000000 4.063492" />
+    <ImageTarget name="L508" size="4.000000 4.012539" />
+    <ImageTarget name="L506" size="4.000000 3.912500" />
+    <ImageTarget name="L505" size="4.000000 4.025157" />
+    <ImageTarget name="L507" size="4.000000 3.950000" />
+  </Tracking>
+</QCARConfig>

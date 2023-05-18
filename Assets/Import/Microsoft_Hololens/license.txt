@@ -1,0 +1,11 @@
+Model Information:
+* title:	Microsoft Hololens
+* source:	https://sketchfab.com/3d-models/microsoft-hololens-f3a37da04a5647f5a34d6a50590daaf0
+* author:	Ikarus 3D (https://sketchfab.com/ikarus3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Microsoft Hololens" (https://sketchfab.com/3d-models/microsoft-hololens-f3a37da04a5647f5a34d6a50590daaf0) by Ikarus 3D (https://sketchfab.com/ikarus3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
